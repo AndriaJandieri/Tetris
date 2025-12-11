@@ -11,7 +11,7 @@ Play the game on Android:
 
 ---
 
-## 📝 Overview  
+## Overview  
 TetrAJ is a Unity-based mobile game developed as a solo project.  
 The goal was to practice Unity gameplay mechanics, UI design, data storage, and publishing an Android build.
 
