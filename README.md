@@ -32,7 +32,7 @@ TetrAJ includes a fully custom-built global leaderboard system — no third-part
 - If the player is **offline**, scores are **stored locally**  
 - Once the device reconnects, the game **syncs and uploads pending scores**  
 - Ensures player progress is never lost
-- 
+  
 ---
 
 ## Tech Stack  
